@@ -23,14 +23,15 @@ A fun mod that replaces standard style action names with custom ones. Experience
 - Replaces **Headshot** with **LOBOTOMY**
 - Replaces **Big Headshot** with **BRAINFUCK**
 - Replaces **Enraged** with **cry bout it**
+- Replaces **Quickdraw** with **ASKILL**
 
 ## Disclaimer
-dont steal it or ill ultrakill you
+dont steal it or ill ultrakill your family
 
 ## Installation
 1. Install **BepInEx**.
 2. Unzip **BepInEx** to the **same folder** as **ULTRAKILL.exe**.
-3. Drag `Plugin.dll` from **UKStyleEditor/plugins** into your `ULTRAKILL/BepInEx/plugins` folder and launch the game.
+3. Drag `Plugin.dll` into your `ULTRAKILL/BepInEx/plugins` folder and launch the game.
 
 ## Requirements
 - BepInEx 5.4.21 or higher
@@ -42,3 +43,4 @@ dont steal it or ill ultrakill you
 
 
 **CC BY-NC-ND**
+
