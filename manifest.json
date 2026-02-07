@@ -1,0 +1,9 @@
+{
+    "name": "Ultrakill_Style_Editor",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces style names with custom ones like ADHD and Tax evasion.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
