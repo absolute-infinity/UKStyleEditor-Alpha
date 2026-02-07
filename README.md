@@ -38,6 +38,7 @@ dont steal it or ill ultrakill you
 ## Compatibility
 - Works on both **Licensed** and **Pirated** versions of the game.
 
-*Made by Descoherence*
+*Made by lingvist (absolute-infinitie)*
+
 
 **CC BY-NC-ND**
